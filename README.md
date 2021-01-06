@@ -2,6 +2,8 @@
 This is the code develop to compare model for my undergraduate thesis in time series forecasting. The goal was to compare usual statistical method of forecasting to different state of the art neural network approach.
 This code was written only to produce output and re-usability was not a goal as no work needs to be derived from those results. 
 
+[![Capture-d-cran-2021-01-06-11-44-01.png](https://i.postimg.cc/NfLwrcCs/Capture-d-cran-2021-01-06-11-44-01.png)](https://postimg.cc/PPG7BBk9)
+
 - main_analysis : This code outputs  metrics per model on the 4 selected series used in the thesis
 - main : This code outputs metrics on all the time series selected
 - Analysis_ARIMA : This code is focusing on the ARIMA models and is testing multiple parameters to optimize the ARIMA performance
