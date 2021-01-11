@@ -1,4 +1,6 @@
 # M4-time-series-forecasting
+The dataset used was the M4 competition dataset. See more information on this in the wikepedia page : https://en.wikipedia.org/wiki/Makridakis_Competitions
+
 This is the code develop to compare model for my undergraduate thesis in time series forecasting. The goal was to compare usual statistical method of forecasting to different state of the art neural network approach.
 This code was written only to produce output and re-usability was not a goal as no work needs to be derived from those results. 
 
