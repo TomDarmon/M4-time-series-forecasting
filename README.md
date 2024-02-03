@@ -6,7 +6,7 @@ This code was written only to produce output and re-usability was not a goal as 
 
 [![Capture-d-cran-2021-01-06-11-44-01.png](https://i.postimg.cc/NfLwrcCs/Capture-d-cran-2021-01-06-11-44-01.png)](https://postimg.cc/PPG7BBk9)
 
-- main_analysis : This code outputs  metrics per model on the 4 selected series used in the thesis
+- main_analysis : This code outputs  metrics per model on the 4 selected series used in my bachelor thesis
 - main : This code outputs metrics on all the time series selected
 - Analysis_ARIMA : This code is focusing on the ARIMA models and is testing multiple parameters to optimize the ARIMA performance
 - function : The code is composed of the useful function such as trend detection, stationarity test, data transformation
